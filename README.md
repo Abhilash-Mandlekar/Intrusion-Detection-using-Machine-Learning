@@ -15,4 +15,5 @@ These attacks are further classified in the following types:
 
 As discussed above, since the dataset has more than 2 classes, the algorithms like Logistic Regression, Neural Nets and deep learning algorithms are applied to create the models. Accuracy of each of these algorithms are discussed in detail in ipython notebooks.
 
+It is interesting to note that this project is developed without using any high-level libraries like Tensorflow, Keras or Scikit-learn. 
 Since this project is developed as a part of classroom assignment, you may find discussion about other dataset like "Rain in Australia", you may ignore this if you are looking specifically for "Intrusion Detection."
