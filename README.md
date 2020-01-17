@@ -17,3 +17,5 @@ As discussed above, since the dataset has more than 2 classes, the algorithms li
 
 It is interesting to note that this project is developed without using any high-level libraries like Tensorflow, Keras or Scikit-learn. 
 Since this project is developed as a part of classroom assignment, you may find discussion about other dataset like "Rain in Australia", you may ignore this if you are looking specifically for "Intrusion Detection."
+
+"Abhilash_Mandlekar_Assign3.ipynb" is also not a part of intrusion detection.
